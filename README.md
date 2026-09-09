@@ -1,2 +1,6 @@
-# 2026-2027_Sec-21-10_pythonprogramingcourse
-THIS REPOSITORY IS FOR LEARNING AND PRACTICING PYTHON PROGRAMMING LANGUAGE 
+#python programming course
+institution:NRIU
+academic year:2026-2027
+section:sec21
+serial number: 10
+student name: D.Venkata Abhiram
