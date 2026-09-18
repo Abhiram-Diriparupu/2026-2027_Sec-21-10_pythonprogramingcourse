@@ -9,4 +9,4 @@ print("result of",a,"> 5 or",a,"<10:", result)
 result=a>5 or a<1
 print("result of",a,"> 5 or",a,"<1:",result)
 result=not(a>5)
-print("result of",a,"not(a>5)":,result)
+print("result of",a,"not(a>5)",result)
